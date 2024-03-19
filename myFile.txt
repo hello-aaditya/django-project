@@ -1,0 +1,18 @@
+In a recent podcast interview with Lex Fridman, Sam Altman, the CEO of OpenAI, expressed contemplation regarding the company's name. 
+He suggested that a different name might have been more fitting for the company. 
+Altman, who co-founded OpenAI alongside Elon Musk and others in 2015, recounted the early days of the company when its trajectory was uncertain. 
+Initially conceived as a research lab with a broad vision for artificial intelligence (AI) applications, 
+the company later evolved to explore avenues such as API services and chatbot development.
+
+The transition from a nonprofit model, focused on leveraging AI for the benefit of humanity, 
+to a "capped-profit" structure in 2019 marked a significant shift for OpenAI. 
+This change drew attention, particularly from Musk, 
+who voiced concerns about the company's departure from its original nonprofit mission and its shift towards proprietary technologies. 
+Musk's discontent culminated in a lawsuit against OpenAI, 
+alleging breaches of the company's founding principles and advocating for a name change to "ClosedAI" as a condition for dropping the lawsuit.
+
+However, Altman expressed uncertainty regarding Musk's underlying motivations. 
+Despite Musk's criticisms and lawsuit, Altman defended OpenAI's evolution, 
+characterising it as a natural response to the evolving landscape of AI technology and the need for increased capital. 
+He suggested that the company's evolution was driven by practical considerations and the need to adapt to changing circumstances, 
+rather than a departure from its core mission.
